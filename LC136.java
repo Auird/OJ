@@ -32,7 +32,7 @@ public class LC136 {
 
     public static void main(String[] args) {
         int[] nums = {2,2,4,4,4,3,4};
-        System.out.println(singleNumber(nums));
+        //System.out.println(singleNumber(nums));
         System.out.println(singleNumberUsingXOR(nums));
     }
 }
