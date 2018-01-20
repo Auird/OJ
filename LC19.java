@@ -23,7 +23,7 @@ public class LC19 {
         /**
          * 2 passes method
           * @param head
-         * @param n
+         * @param int n
          * @return
          */
 
