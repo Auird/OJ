@@ -21,7 +21,7 @@ public class LC19 {
 
     class Solution {
         /**
-         * 2 passes .
+         * 2 passes
           * @param head
          * @param n
          * @return
